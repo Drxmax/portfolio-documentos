@@ -1,4 +1,4 @@
-:README do Repositório de Documentos:README.md
+
 # Documentos e Análises de Portfólio
 
 Este repositório serve como um portfólio de documentação. Ele contém análises, relatórios, planos de desenvolvimento e outros materiais que complementam meus projetos de código e refletem minha jornada de aprendizado e crescimento profissional na área de tecnologia.
